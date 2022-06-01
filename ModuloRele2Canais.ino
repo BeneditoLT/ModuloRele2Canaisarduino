@@ -1,6 +1,4 @@
-/* 
- *  
- *  Este código é destinado a comutação dos relés de um módulo contendo dois canais por meio de chaves Push Bottom 
+/*  Este código é destinado a comutação dos relés de um módulo contendo dois canais por meio de chaves Push Bottom 
  *  Benedito Lucas de Toledo 
  *  DATA 01/06/2022
  *  ELETROKITS :  https://lista.mercadolivre.com.br/_CustId_325367602?item_id=MLB2659424372&category_id=MLB99779&seller_id=325367602&client=recoview-selleritems&recos_listing=true
