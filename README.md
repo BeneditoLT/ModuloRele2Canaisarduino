@@ -33,7 +33,7 @@ Especificações Uno R3:
 https://produto.mercadolivre.com.br/MLB-2643199943-modulo-rele-2-canais-arduino-eletrokits-_JM
 
 <P>
-Com este módulo você consegue fazer acionamento de cargas de até 220V AC, como lâmpadas, equipamentos eletrônicos, motores, ou usá-lo para fazer um isolamento entre um circuito e outro. O módulo é equipado com transistores, conectores, leds, diodos e relés de alta qualidade. Cada canal possui um LED para indicar o estado da saída do relé. Se precisar de mais relés 5 V, veja o Modulo Relé 5 V com 4 Canais.
+Com este módulo você consegue fazer acionamento de cargas de até 220V AC, como lâmpadas, equipamentos eletrônicos, motores, ou usá-lo para fazer um isolamento entre um circuito e outro. O módulo é equipado com transistores, conectores, leds, diodos e relés de alta qualidade. Cada canal possui um LED para indicar o estado da saída do relé.
 
 Especificações:
 <li> Modelo: JQC-3FF-S-Z </li>
