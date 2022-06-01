@@ -1,6 +1,6 @@
 # ModuloRele2Canaisarduino
 
-<H1> Introdução </H1>
+<H1> <a href=“[http://exemplo.com/](https://produto.mercadolivre.com.br/MLB-2643199943-modulo-rele-2-canais-arduino-eletrokits-_JM)“>Introdução</a></H1>
 
 <P>
 Por meio do módulo relé podemos usar os pinos digitais do Arduino para chavear sinais de potência e acionar ou desligar qualquer tipo de lâmpada. Ficou interessado? Então vamos aprender!
@@ -30,7 +30,7 @@ Especificações Uno R3:
 </P>
 
 <H2> Modulo Rele </H2>
-
+https://produto.mercadolivre.com.br/MLB-2643199943-modulo-rele-2-canais-arduino-eletrokits-_JM
 
 <P>
 Com este módulo você consegue fazer acionamento de cargas de até 220V AC, como lâmpadas, equipamentos eletrônicos, motores, ou usá-lo para fazer um isolamento entre um circuito e outro. O módulo é equipado com transistores, conectores, leds, diodos e relés de alta qualidade. Cada canal possui um LED para indicar o estado da saída do relé. Se precisar de mais relés 5 V, veja o Modulo Relé 5 V com 4 Canais.
