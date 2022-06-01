@@ -51,4 +51,5 @@ Especificações:
 
 <H2>Diagrama Esquematico</H2>
 
-![rele](https://user-images.githubusercontent.com/46333024/171510515-1c6ce8ae-0461-477b-b37d-a66e53cf07d6.jpg)
+![rele](https://user-images.githubusercontent.com/46333024/171512009-f9db41ac-4c8f-40ad-a02d-eeb19946d4d3.jpg)
+
