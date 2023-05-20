@@ -38,7 +38,7 @@ void loop() { // Main loop
 
   if (digitalRead(BOTAO_1) == 0 && BT1status == 1) { //Verificar se o botão foi pressionado e o estado do filtro digital "BTstatus"
     STrele1 =  !STrele1;                             //Inverter o estado do relé 
-    delay(20);                                       // 
+    delay(200);                                       // 
     digitalWrite(RELE_1, STrele1);                   // Enviar a informação ao relé 
     BT1status = 0;                                   // Mudar o estado do filtro para não repetir o ciclo  
 
